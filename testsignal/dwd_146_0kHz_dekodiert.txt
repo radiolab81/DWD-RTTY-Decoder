@@ -1,0 +1,59 @@
+*** SIGNAL: NF-Mitte 1305.1 Hz, Hub ca. 85 Hz, 50 Baud ***
+RUME KHZ   11039 KHZ   14467.3 KHZ
+RYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRY
+CQ CQ CQ DE DDH47 DDH9 DDH8
+FREQUEN
+--- Status: NF-Mitte 1296.2 Hz, Hub 85 Hz, Pegel ~8911, Zeichen ok 159, Rahmenfehler 0, Mark = tief ---
+CIES   147.3 KHZ   11039 KHZ   14467.3 KHZ
+RYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRYRY
+ZCZC 550     
+FQEW57 EDZW 270000
+
+SEEWETTERBERICHT FUER WESTEUROPAEISC
+--- Status: NF-Mitte 1296.8 Hz, Hub 85 Hz, Pegel ~9181, Zeichen ok 359, Rahmenfehler 0, Mark = tief ---
+HE GEWAESSER
+HERAUSGEGEBEN VOM SEEWETTERDIENST HAMBURG
+27.09.26, 00 UTC:
+
+WETTERLAGE:
+
+
+
+VORHERSAGEN VON SA 26.09.2026 12 UTC:
+WINDSTAERKE BEAUFORT, WELLENHOEHE METER
+
+SUEDL
+--- Status: NF-Mitte 1297.8 Hz, Hub 85 Hz, Pegel ~8673, Zeichen ok 558, Rahmenfehler 0, Mark = tief ---
+.IRL. (50.9N   7.7W) WT: 18 C
+SO 27. 00Z: SE-S     5         2  M RAIN   //
+SO 27. 06Z: S-SW   6-7     9   3  M SH     //
+SO 27. 12Z: W-NW   5-6     7   3  
+--- Status: NF-Mitte 1297.4 Hz, Hub 85 Hz, Pegel ~8717, Zeichen ok 758, Rahmenfehler 0, Mark = tief ---
+M        //
+SO 27. 18Z: W-NW     4        2.5 M        //
+MO 28. 00Z: W      2-3         2  M        //
+MO 28. 06Z: S      2-3         2  M        //
+MO 28. 12Z
+--- Status: NF-Mitte 1298.0 Hz, Hub 85 Hz, Pegel ~8740, Zeichen ok 957, Rahmenfehler 0, Mark = tief ---
+: SE       4         2  M        //
+
+ISLE.O.MAN-S (53.8N   4.5W) WT: 16 C
+SO 27. 00Z: S        5        1.5 M        //
+SO 27. 06Z: SE     4-5         1  M    
+--- Status: NF-Mitte 1296.8 Hz, Hub 85 Hz, Pegel ~9123, Zeichen ok 1157, Rahmenfehler 0, Mark = tief ---
+    //
+SO 27. 12Z: S        6   7-8   2  M SH     //
+SO 27. 18Z: W-NW   4-5        1.5 M        //
+MO 28. 00Z: W-NW     4         1  M        //
+MO 28. 06Z: S
+--- Status: NF-Mitte 1297.4 Hz, Hub 85 Hz, Pegel ~9268, Zeichen ok 1357, Rahmenfehler 0, Mark = tief ---
+W-W   2-3         1  M        //
+MO 28. 12Z: S        3        0.5 M        //
+
+ENGL.KAN.-E (50.3N   0.6W) WT: 19 C
+SO 27. 00Z: SE       3        0.5 M        
+--- Status: NF-Mitte 1297.7 Hz, Hub 85 Hz, Pegel ~8624, Zeichen ok 1556, Rahmenfehler 0, Mark = tief ---
+//
+SO 27. 06Z: SE-S     4         1  M        //
+SO 27. 12Z: S-SW   4-5         1  M        //
+SO 27. 18Z
